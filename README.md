@@ -1,3 +1,3 @@
-# Eclipse-plugin-Desktop-genius
-## åŸºäºä¼ªæ˜¥èŠ±ç²¾ç®€ç‰ˆå¼€å‘ï¼Œå°†pluginsä¸­çš„aluo.exeæ”¾ç½®äºCç›˜æ ¹ç›®å½•(æ€•ä¸­æ¯’å°±ç®—äº†ï¼Œå½“æˆ‘æ²¡è¯´);
-## å°†jaråŒ…æ”¾ç½®äºeclipseç›®å½•ä¸‹çš„pluginsæ–‡ä»¶å¤¹ä¸‹ï¼Œé‡å¯eclipseï¼Œç‚¹å‡»ä»»åŠ¡æ ä¸Šçš„coding_genius,have fun~
+# eclipse×ÀÃæ¾«Áé²å¼ş
+## »ùÓÚÎ±´º»¨¾«¼ò°æ¿ª·¢£¬½«pluginsÖĞµÄaluo.exe·ÅÖÃÓÚCÅÌ¸ùÄ¿Â¼(ÅÂÖĞ¶¾¾ÍËãÁË£¬µ±ÎÒÃ»Ëµ);
+## ½«jar°ü·ÅÖÃÓÚeclipseÄ¿Â¼ÏÂµÄpluginsÎÄ¼ş¼ĞÏÂ£¬ÖØÆôeclipse£¬µã»÷ÈÎÎñÀ¸ÉÏµÄcoding_genius,have fun~
